@@ -1,0 +1,41 @@
+{ "cafeler":[
+    {
+		"mekanId":"1",
+		"mekanResim":"buyulufener",
+		"mekanAdi":"Büyülü Fener",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Altındağ",
+		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır."
+	},
+	{
+		"mekanId":"2",
+		"mekanResim":"bilkentprestige",
+		"mekanAdi":"Bilkent Prestige",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Altındağ",
+		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır."
+	},
+	{
+		"mekanId":"3",
+		"mekanResim":"optimumavsar",
+		"mekanAdi":"Optimum Avşar",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Altındağ",
+		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır."
+	},
+	{
+		"mekanId":"4",
+		"mekanResim":"arcadium",
+		"mekanAdi":"Arcadium",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Altındağ",
+		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır."
+	},
+	{
+		"mekanId":"5",
+		"mekanResim":"cinemaximum",
+		"mekanAdi":"Cinemaximum Podium",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Altındağ",
+		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır."
+	}]}
