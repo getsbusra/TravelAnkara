@@ -1,0 +1,42 @@
+{ "konserler":[
+    {
+		"mekanId":"1",
+		"mekanResim":"james",
+		"mekanAdi":"James Cook Cafe&Pub",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Altındağ",
+		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır."
+	},
+	{
+		"mekanId":"2",
+		"mekanResim":"soul",
+		"mekanAdi":"The Soul Pub",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Altındağ",
+		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır."
+	},
+	{
+		"mekanId":"3",
+		"mekanResim":"eskiyeni",
+		"mekanAdi":"Eski Yeni",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Altındağ",
+		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır."
+	},
+	{
+		"mekanId":"4",
+		"mekanResim":"nazende",
+		"mekanAdi":"Nazende",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Altındağ",
+		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır."
+	},
+	{
+		"mekanId":"5",
+		"mekanResim":"ruhibey",
+		"mekanAdi":"Ruhi Bey Meyhanesi",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Altındağ",
+		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır."
+	}
+]}
