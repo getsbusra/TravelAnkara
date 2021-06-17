@@ -1,0 +1,67 @@
+{ "cafeler":[
+    {
+		"mekanId":"1",
+		"mekanResim":"cafebotanica",
+		"mekanAdi":"Cafe Botanica",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Altındağ",
+		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır."
+	},
+	{
+		"mekanId":"2",
+		"mekanResim":"carmelos",
+		"mekanAdi":"Carmelo's Every 7 Day Eat Well",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Altındağ",
+		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır."
+	},
+	{
+		"mekanId":"3",
+		"mekanResim":"turtahome",
+		"mekanAdi":"Turta Home Cafe",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Altındağ",
+		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır."
+	},
+	{
+		"mekanId":"4",
+		"mekanResim":"cafedescafes",
+		"mekanAdi":"Cafe Des Cafes",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Altındağ",
+		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır."
+	},
+	{
+		"mekanId":"5",
+		"mekanResim":"aylakmadam",
+		"mekanAdi":"Aylak Madam",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Altındağ",
+		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır."
+	},
+	{
+		"mekanId":"6",
+		"mekanResim":"kakule",
+		"mekanAdi":"Kakule Kahve",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Altındağ",
+		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır."
+	},
+	{
+		"mekanId":"7",
+		"mekanResim":"thebigos",
+		"mekanAdi":"The Bigos",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Altındağ",
+		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır."
+	},
+	{
+		"mekanId":"8",
+		"mekanResim":"coffeelab",
+		"mekanAdi":"Coffee Lab",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Altındağ",
+		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır."
+	}
+]
+}
