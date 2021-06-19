@@ -15,7 +15,9 @@
 		"mekanAdi":"Armada Alışveriş Merkezi",
 		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
 		"mekanIlce":"Altındağ",
-		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır."
+		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır.",
+	        "latitude":"39.500",
+	        "longitude":"32.8317"
 	},
 	{
 		"mekanId":"3",
@@ -24,8 +26,8 @@
 		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
 		"mekanIlce":"Altındağ",
 		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır.",
-	        "latitude":"",
-		"longitude":""
+	        "latitude":"39.500",
+	        "longitude":"32.8317"
 	},
 	{
 		"mekanId":"4",
@@ -33,7 +35,9 @@
 		"mekanAdi":"Atlantis Alışveriş Merkezi",
 		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
 		"mekanIlce":"Altındağ",
-		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır."
+		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır.",
+	        "latitude":"39.500",
+	        "longitude":"32.8317"
 	},
 	{
 		"mekanId":"5",
@@ -41,7 +45,10 @@
 		"mekanAdi":"Kızılay AVM",
 		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
 		"mekanIlce":"Yenimahalle",
-		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır."
+		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır.",
+	        "latitude":"39.500",
+	        "longitude":"32.8317"
+	
 	},
 	{
 		"mekanId":"6",
@@ -49,7 +56,10 @@
 		"mekanAdi":"Anatolium Alışveriş Merkezi",
 		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
 		"mekanIlce":"Altındağ",
-		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır."
+		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır.",
+	        "latitude":"39.500",
+	        "longitude":"32.8317"
+	
 	},
 	{
 		"mekanId":"7",
@@ -57,7 +67,9 @@
 		"mekanAdi":"Forum Ankara",
 		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
 		"mekanIlce":"Altındağ",
-		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır."
+		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır.",
+	        "latitude":"39.500",
+	        "longitude":"32.8317"
 	},
 	{
 		"mekanId":"8",
@@ -65,7 +77,9 @@
 		"mekanAdi":"Taurus ALışveriş Merkezi",
 		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
 		"mekanIlce":"Altındağ",
-		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır."
+		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır.",
+	        "latitude":"39.500",
+	        "longitude":"32.8317"
 	}
 ]
 }
