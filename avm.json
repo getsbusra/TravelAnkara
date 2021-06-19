@@ -4,44 +4,44 @@
 		"mekanResim":"ankamallavm",
 		"mekanAdi":"ANKAmall",
 		"mekanAdres":"Gazi, Gazi Konya Devlet Yolu, Mevlana Blv. No:2, 06560",
-		"mekanIlce":"İlçe : Yenimahalle",
-		"mekanAciklama":"Ankamall'de bulunan mağazalar : Abdullah Kiğılı (Kat:0) AdL (Kat:0)\n Altınyıldız Classic (Kat:1)\n Armine (Kat:1) Athletic Zone (Kat:2) Avva (Kat:1) Bershka (Kat:2) Beymen Business (Kat:1)",
+		"mekanIlce":"Yenimahalle İlçesi",
+		"mekanAciklama":"Ankamall'de bulunan mağazalar:Abdullah Kiğılı-Altınyıldız Classic-Armine-Athletic Zone-Avva-Bershka-Beymen Business",
                 "mekanAdresLink":"https://www.google.com/maps/dir/39.9715769,32.9719348/ANKAmall+Gazi,+ANKAmall,+Gazi+Konya+Devlet+Yolu,+Mevlana+Blv.+No:2,+06560+Yenimahalle%2FAnkara/@39.9840736,32.866679,13z/data=!3m1!4b1!4m15!1m6!3m5!1s0x14d34e95e58cebdd:0xb0a487ed057c548a!2sANKAmall!8m2!3d39.9504171!4d32.8312831!4m7!1m0!1m5!1m1!1s0x14d34e95e58cebdd:0xb0a487ed057c548a!2m2!1d32.8312831!2d39.9504171"
     },
 	{
 		"mekanId":"2",
 		"mekanResim":"armadaavm",
 		"mekanAdi":"Armada Alışveriş Merkezi",
-		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
-		"mekanIlce":"Altındağ",
-		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır.",
+		"mekanAdres":"Beştepe, Dumlupınar Blv. No:6, 06560",
+		"mekanIlce":"Yenimahalle İlçesi",
+		"mekanAciklama":"Armada Kulesi; günümüzde, ofis binası ve alışveriş merkezi olarak kullanılır. 2003 yılında Uluslararası Alışveriş Merkezleri Konseyi tarafından Avrupa'nın en iyi alışveriş merkezi seçilmiş ve bu alanda İstanbul'da bulunan Akmerkez'den sonra ikinci ödüllü alışveriş merkezi olmuştur.",
 	        "mekanAdresLink":"https://www.google.com/maps/place/Armada+Al%C4%B1%C5%9Fveri%C5%9F+ve+%C4%B0%C5%9F+Merkezi/@39.912703,32.8068323,17z/data=!3m1!4b1!4m5!3m4!1s0x14d34f4b70fc2305:0xc99085df9dc02ed7!8m2!3d39.912703!4d32.809021"
 	},
 	{
 		"mekanId":"3",
 		"mekanResim":"antaresavm",
 		"mekanAdi":"Antares AVM",
-		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
-		"mekanIlce":"Altındağ",
-		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır.",
+		"mekanAdres":"Halil Sezai Erkut Cad. Afra Sok.No:1 ",
+		"mekanIlce":"Keçiören İlçesi",
+		"mekanAciklama":"Adını, Samanyolu'nda yer alan, Güneş'ten 400 kat daha büyük ve 60 bin kat daha parlak olan bir yıldızdan alan Antares Alışveriş ve Yaşam Merkezi, 83.000 m2 kiralanabilir alanı ile Türkiye'nin en büyük alışveriş merkezleri arasında yer alıyor.",
 	        "mekanAdresLink":"https://www.google.com/maps/place/Ayval%C4%B1,+Antares,+06010+Ke%C3%A7i%C3%B6ren%2FAnkara/@39.9695522,32.8205241,17z/data=!4m13!1m7!3m6!1s0x14d34c1d09601a81:0xc8929678d43a5fff!2zQXl2YWzEsSwgQW50YXJlcywgMDYwMTAgS2XDp2nDtnJlbi9BbmthcmE!3b1!8m2!3d39.9695481!4d32.8227128!3m4!1s0x14d34c1d09601a81:0xc8929678d43a5fff!8m2!3d39.9695481!4d32.8227128"
 	},
 	{
 		"mekanId":"4",
 		"mekanResim":"atlantisavm",
 		"mekanAdi":"Atlantis Alışveriş Merkezi",
-		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
-		"mekanIlce":"Altındağ",
-		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır.",
+		"mekanAdres":"Başkent Blv.224 B",
+		"mekanIlce":"Yenimahalle İlçesi",
+		"mekanAciklama":"Hipermarketten tekstile, elektronikten yapı ürünlerine kadar, yerli ve yabancı birçok markanın zengin ürün çeşitlerini tek çatı altında buluşturan Atlantis AVM; peyzaj alanları ve çevre düzenlemesiyle gezerken yeşile doyabileceğiniz bir projedir.",
 	        "mekanAdresLink":"https://www.google.com/maps/place/Atlantis+Al%C4%B1%C5%9Fveri%C5%9F+ve+E%C4%9Flence+Merkezi/@39.9727912,32.7204859,14z/data=!4m9!1m2!2m1!1satlantis+avm!3m5!1s0x0:0xedc6a7e4ba242978!8m2!3d39.9701023!4d32.7150498!15sCgxhdGxhbnRpcyBhdm1aDiIMYXRsYW50aXMgYXZtkgEPc2hvcHBpbmdfY2VudGVymgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJSTlRsNU1uWlJSUkFC"
 	},
 	{
 		"mekanId":"5",
 		"mekanResim":"kizilayavm",
 		"mekanAdi":"Kızılay AVM",
-		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
-		"mekanIlce":"Yenimahalle",
-		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır.",
+		"mekanAdres":"İzmir 1.Cad.28 A",
+		"mekanIlce":"Çankaya İlçesi",
+		"mekanAciklama":"Bina, aslında bir ticari kompleks olarak tasarlanmıştı. Yapının bulunduğu noktada daha önceden Kızılay Parkı ve Türk Kızılayı'nın merkez binası bulunmaktaydı. Fakat bu bina yıkıldığı için yenisinin yapılması kararlaştırılarak bir yarışma açıldı. Yarışmayı ise Yatman'ın projesi kazandı. Eskiden burada bir meydan olduğu için bu ruhu korumak isteyen mimar, binanın girişini yayaların rahatça yürüyebileceği bir toplanma alanı olarak tasarladı.",
 	        "mekanAdresLink":"https://www.google.com/maps/place/K%C4%B1z%C4%B1lay+AVM/@39.9214835,32.8527577,19z/data=!4m9!1m2!2m1!1za8SxesSxbGF5IGF2bQ!3m5!1s0x0:0x73cee666f8ce5c86!8m2!3d39.9213016!4d32.8533781!15sCg1rxLF6xLFsYXkgYXZtkgEPc2hvcHBpbmdfY2VudGVy"
 	
 	},
@@ -49,9 +49,9 @@
 		"mekanId":"6",
 		"mekanResim":"anatoliumavm",
 		"mekanAdi":"Anatolium Alışveriş Merkezi",
-		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
-		"mekanIlce":"Altındağ",
-		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır.",
+		"mekanAdres":"Akşemsettin, 215/B, Doğukent Cd., 06480",
+		"mekanIlce":"Mamak İlçesi",
+		"mekanAciklama":"Anatolium Ankara Alışveriş Merkezi, 34 bin metrekarelik Ikea, CarrefourSA, Tekzen, ebebek, Decathlon, Köfteci Yusuf, Koton, Defacto gibi mağazalarının yanı sıra elektronik, ev tekstili, hazır giyim, restoran, kafe, çocuk ve eğlence alanlarında yerli ve yabancı 97 mağazasıyla ailece keyifli zaman geçirmek isteyenlerin uğrak noktasıdır.",
 	        "mekanAdresLink":"https://www.google.com/maps/place/Anatolium+Ankara+Avm/@39.8883221,32.9312343,18z/data=!4m9!1m2!2m1!1sanatolium+avm!3m5!1s0x0:0x7087ae6894e21a6c!8m2!3d39.8888191!4d32.9321286!15sCg1hbmF0b2xpdW0gYXZtWg8iDWFuYXRvbGl1bSBhdm2SARBkZXBhcnRtZW50X3N0b3Jl"
 	
 	},
@@ -59,18 +59,18 @@
 		"mekanId":"7",
 		"mekanResim":"forumankara",
 		"mekanAdi":"Forum Ankara",
-		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
-		"mekanIlce":"Altındağ",
-		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır.",
+		"mekanAdres":"Ovacık, Yozgat Blv. No:99, 06280",
+		"mekanIlce":"Keçiören İlçesi",
+		"mekanAciklama":"Bu çağdaş, çok katlı outlet alışveriş merkezinde yerel markalar ve uluslararası restoranlar vardır.",
 	        "mekanAdresLink":"https://www.google.com/maps/place/Forum+Ankara+Al%C4%B1%C5%9Fveri%C5%9F+Merkezi/@40.0164754,32.8217009,18z/data=!4m9!1m2!2m1!1sforum+ankara!3m5!1s0x0:0x8534294e1a31f2a!8m2!3d40.0171204!4d32.8231491!15sCgxmb3J1bSBhbmthcmGSAQtvdXRsZXRfbWFsbA"
 	},
 	{
 		"mekanId":"8",
 		"mekanResim":"taurusavm",
 		"mekanAdi":"Taurus ALışveriş Merkezi",
-		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
-		"mekanIlce":"Altındağ",
-		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır.",
+		"mekanAdres":"İşçi Blokları, Mevlana Blv. No:190/B, 06520",
+		"mekanIlce":"Çankaya İli",
+		"mekanAciklama":"Giyim, ev eşyası ve elektronik alanındaki ünlü zincir mağazaları, yemek alanı ve sinemasıyla alışveriş merkezi.",
 	        "mekanAdresLink":"https://www.google.com/maps/place/Taurus+AVM/@39.9530855,32.8016566,12z/data=!4m12!1m6!3m5!1s0x14d345e2586d67ad:0x1bcc4c9e5b0bf951!2sTaurus+AVM!8m2!3d39.8882814!4d32.8112361!3m4!1s0x14d345e2586d67ad:0x1bcc4c9e5b0bf951!8m2!3d39.8882814!4d32.8112361"
 	}
 ]
