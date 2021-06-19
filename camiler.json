@@ -1,0 +1,87 @@
+{ "camiler":[
+    {
+		"mekanId":"1",
+		"mekanResim":"agacayakcamii",
+		"mekanAdi":"Ağaç Ayak Camii",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Altındağ İlçesi",
+		"mekanAciklama":"Ağaç Ayak Camii Ankara'nın tarihi camilerinden biridir.İç tasarımında kullanılan ahşap minberi, alçı mihrabı ve nakış işlemeleri; caminin geç dönem Ankara eserleri arasında sayılmasına neden olmaktadır.",
+	    "mekanAdresLink":"https://www.google.com/maps/place/A%C4%9Fa%C3%A7+Ayak+Camii/@39.984434,32.7758077,11z/data=!4m5!3m4!1s0x14d34dd82a157ce9:0x37929386493489e6!8m2!3d39.9574279!4d32.8647107"
+	},
+	{
+		"mekanId":"2",
+		"mekanResim":"ahmethamdiaksekicamii",
+		"mekanAdi":"Ahmet Hamdi Akseki Camii",
+		"mekanAdres":"Üniversiteler, 06800",
+		"mekanIlce":"Çankaya İlçesi",
+		"mekanAciklama":"Ahmet Hamdi Akseki Camii ya da Aksaki Camii, Eskişehir yolu Bilkent kavşağında, Diyanet İşleri Başkanlığının yanında yer alan, eski Diyanet İşleri Başkanı Ahmet Hamdi Akseki anısına yapılan bir camiidir." ,
+	    "mekanAdresLink":"https://www.google.com/maps/place/Ahmet+Hamdi+Akseki+Camii/@39.9069038,32.7588218,16z/data=!4m12!1m6!3m5!1s0x14d3462cd69c3903:0x1fc1bd60274b0a0a!2sAhmet+Hamdi+Akseki+Camii!8m2!3d39.9065353!4d32.7632521!3m4!1s0x14d3462cd69c3903:0x1fc1bd60274b0a0a!8m2!3d39.9065353!4d32.7632521"
+	},
+	{
+		"mekanId":"3",
+		"mekanResim":"alisamipasacamii",
+		"mekanAdi":"Ali Sami Paşa Camii",
+		"mekanAdres":"Üniversiteler, 068000",
+		"mekanIlce":"Çankaya İlçesi",
+		"mekanAciklama":"İhsan Doğramacı tarafından babası Doğramacızade Ali Paşa adına yaptırılmıştır. Erkut Şahinbaş'ın mimarı olduğu Türkiye'nin ilk teknolojik camisi sadece ibadet hizmeti vermemektedir. Resim sergisi, konser ve seminerlerin yapılacağı cami, Osmanlı’da olduğu gibi hem ibadet, hem de kültür merkezi şeklindedir. ",
+	    "mekanAdresLink":"https://www.google.com/maps/place/Do%C4%9Framac%C4%B1zade+Ali+Pa%C5%9Fa+Camii/@39.885552,32.7588165,17z/data=!4m12!1m6!3m5!1s0x14d347ad6c8ecc2b:0x6efaac349114f3b4!2zRG_En3JhbWFjxLF6YWRlIEFsaSBQYcWfYSBDYW1paQ!8m2!3d39.8851707!4d32.7610437!3m4!1s0x14d347ad6c8ecc2b:0x6efaac349114f3b4!8m2!3d39.8851707!4d32.7610437"
+	},
+	{
+		"mekanId":"4",
+		"mekanResim":"arslanhanecamii",
+		"mekanAdi":"Arslan Hane Camii",
+		"mekanAdres":"Kale, 06240",
+		"mekanIlce":"Altındağ İlçesi",
+		"mekanAciklama":" Şehrin en eski ve önemli yapılarından birisi olan cami, Ankara Kalesi'nin güney ucunda yer alır. Hangi tarihte ve kimin adına yaptırıldığı ise tartışmalıdır. Caminin kuzeydoğusundaki Ahi Şerafeddin Türbesi'nin dış duvarında bulunan aslan heykelinden dolayı bu isimle anılmaktadır.",
+	    "mekanAdresLink":"https://www.google.com/maps/place/Ahi+%C5%9Eerafeddin+Camii/@39.9369281,32.864139,18z/data=!4m12!1m6!3m5!1s0x14d34e6031b0389d:0xaa5e25f604e94065!2sAhi+%C5%9Eerafeddin+Camii!8m2!3d39.9368112!4d32.8651315!3m4!1s0x14d34e6031b0389d:0xaa5e25f604e94065!8m2!3d39.9368112!4d32.8651315"
+	},
+	{
+		"mekanId":"5",
+		"mekanResim":"hacibayramcamii",
+		"mekanAdi":"Hacı Bayram Veli Camii",
+		"mekanAdres":"Hacıbayram, Şht.Keskin Sk.No:7, 06050",
+		"mekanIlce":"Altındağ İli",
+		"mekanAciklama":"Augustus (Ogüst) Tapınağı'nın bitişiğindedir. İlk zaviye olarak yapılış tarihi hicri 831 yılı (1427-1428) olan caminin ilk mimarı Mimar Mehmet Bey hakkında bilgi bulunmamaktadır. Günümüzdeki mimari yapısı XVII. ve XVIII. yüzyıl camilerinin karakterlerini taşımaktadır.",
+	    "mekanAdresLink":"https://www.google.com/maps/place/Hac%C4%B1+Bayram-%C4%B1+Veli+T%C3%BCrbesi/@39.9446248,32.8566993,17z/data=!4m9!1m2!2m1!1shac%C4%B1bayram+camii!3m5!1s0x0:0xcdf5bbaa2df9204a!8m2!3d39.9442946!4d32.8578334!15sChJoYWPEsSBiYXlyYW0gY2FtaWlaFCISaGFjxLEgYmF5cmFtIGNhbWlpkgETaGlzdG9yaWNhbF9sYW5kbWFya5oBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VONWIxcFlkV0ZCRUFF"},
+	{
+		"mekanId":"6",
+		"mekanResim":"hallacmahmutcamii",
+		"mekanAdi":"Hallaç Mahmut Camii",
+		"mekanAdres":"Anafartalar Susam Sk.No:10,06050",
+		"mekanIlce":"Altındağ İlçesi",
+		"mekanAciklama":"Hallaç Mahmut Cami veya Hallaç Mahmut Mescidi; Ankara'nın Ulus semtinde bulunan bir camidir. Tek kubbeli ve minaresiz bir şekilde inşa edilmiş olan bu Osmanlı İmparatorluğu yapısı, başlarda mescid olarak tasarlanmış ve kullanılmıştır.",
+	    "mekanAdresLink":"https://www.google.com/maps/place/Halla%C3%A7+Mahmut+Cami/@39.9412064,32.8527975,16z/data=!4m12!1m6!3m5!1s0x14d34e60f1c2fba7:0x2f0bbca76b4a5ced!2sHalla%C3%A7+Mahmut+Cami!8m2!3d39.9408861!4d32.8570851!3m4!1s0x14d34e60f1c2fba7:0x2f0bbca76b4a5ced!8m2!3d39.9408861!4d32.8570851"},
+	{
+		"mekanId":"7",
+		"mekanResim":"karacabeycamii",
+		"mekanAdi":"Karacabey Camii",
+		"mekanAdres":"Hacettepe, Mehmet Akif Ersyo Sk.No:37",
+		"mekanIlce":"Altındağ İlçesi",
+		"mekanAciklama":"Anadolu Beylerbeyi Celaleddin Karacabey bin Abdullah'ın türbesi, cami bahçesindedir. Türbesi, çeşmesi ve bitişiğindeki Karacabey Hamamı ile beraber bu cami bir külliye oluşturur. Külliyede bir imaret de bulunmasından dolayı cami İmaret Camii olarak da bilinir. Cami, bugün Hacettepe Hastanesi arazisisinde yer alır. ",
+	    "mekanAdresLink":"https://www.google.com/maps/place/Karacabey+Camii/@39.9317263,32.8610276,16z/data=!4m12!1m6!3m5!1s0x14d34e44b07a99c5:0x7452c3fbd62b3cf6!2sKaracabey+Camii!8m2!3d39.9312783!4d32.8653604!3m4!1s0x14d34e44b07a99c5:0x7452c3fbd62b3cf6!8m2!3d39.9312783!4d32.8653604"},
+	{
+		"mekanId":"8",
+		"mekanResim":"kocatepecamii",
+		"mekanAdi":"Kocatepe Camii",
+		"mekanAdres":"Kültür Dr.Mediha Eldem Sk:No:67",
+		"mekanIlce":"Çankaya İlçesi",
+		"mekanAciklama":"Kocatepe Camii, Ankara'nın Kocatepe semtinde 1967'de inşaatına başlanan ve Türkiye Diyanet Vakfı tarafından 1987'de inşaatı tamamlanan cami.",
+	    "mekanAdresLink":"https://www.google.com/maps/place/Kocatepe+Camii/@39.917452,32.8587535,17z/data=!4m12!1m6!3m5!1s0x14d34fac686c4b49:0xf045e778820ec474!2sKocatepe+Camii!8m2!3d39.9166089!4d32.8607062!3m4!1s0x14d34fac686c4b49:0xf045e778820ec474!8m2!3d39.9166089!4d32.8607062"},
+	{
+		"mekanId":"9",
+		"mekanResim":"maltepecamii",
+		"mekanAdi":"Maltepe Camii",
+		"mekanAdres":"Şehit Gönenç Caddesi No:3,06570",
+		"mekanIlce":"Çankaya İlçesi",
+		"mekanAciklama":"Recai Akçay tarafından tasarlanan cami, 1954-1959 yılları arasında inşa edildi.[2] Caminin yapımını 1950 yılında kurulan Ankara Maltepe'de Bir Cami Yaptırma Derneği” üstlendi (Dernek daha sonra “Ankara Maltepe Camii Yaptırma ve Yaşatma Derneği adını almışıtr).",
+	    "mekanAdresLink":"https://www.google.com/maps/place/Maltepe+Cami/@39.9254171,32.8445733,17z/data=!4m12!1m6!3m5!1s0x14d34efdeec1c4ad:0x9ca45a63b9e97126!2sMaltepe+Cami!8m2!3d39.9251549!4d32.8466535!3m4!1s0x14d34efdeec1c4ad:0x9ca45a63b9e97126!8m2!3d39.9251549!4d32.8466535"},
+	{
+		"mekanId":"10",
+		"mekanResim":"tbmmcamii",
+		"mekanAdi":"TBMM Camii",
+		"mekanAdres":"1.TBMM Cd.06824",
+		"mekanIlce":"Etimesgut İlçesi",
+		"mekanAciklama":"TBMM Camii Kompleksi TBMM kompleksindeki milletvekillerine ve meclis çalışanlarının kullanımı için inşa edilmiş bir cami ve camiyle birlikte inşa edilmiş kitaplık binası ile meydanı içeren yapı grubudur.",
+	    "mekanAdresLink":"https://www.google.com/maps/place/Satuk+Bu%C4%9Fra+Han+Cami/@39.8792741,32.503064,11z/data=!4m9!1m2!2m1!1stbmm+cami!3m5!1s0x0:0xe223c2fc656ad97c!8m2!3d39.99224!4d32.62677!15sCgl0Ym1tIGNhbWmSAQhidXNfc3RvcA"}
+]
+}
