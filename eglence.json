@@ -14,8 +14,8 @@
 		"mekanAdi":"The Soul Pub",
 		"mekanAdres":"Olgunlar Caddesi No:1, 06110",
 		"mekanIlce":"Çankaya İlçesi",
-		"mekanAciklama":"Bu mekanın puanı 4,3'tür."
-	    ,"mekanAdresLink":"https://www.google.com/maps/place/The+Soul+Pub/@39.9152464,32.8523065,16z/data=!4m12!1m6!3m5!1s0x14d34fa90c4ee785:0x531c7e01d973a138!2sThe+Soul+Pub!8m2!3d39.9149599!4d32.856659!3m4!1s0x14d34fa90c4ee785:0x531c7e01d973a138!8m2!3d39.9149599!4d32.856659"
+		"mekanAciklama":"Bu mekanın puanı 4,3'tür.",
+		"mekanAdresLink":"https://www.google.com/maps/place/The+Soul+Pub/@39.9152464,32.8523065,16z/data=!4m12!1m6!3m5!1s0x14d34fa90c4ee785:0x531c7e01d973a138!2sThe+Soul+Pub!8m2!3d39.9149599!4d32.856659!3m4!1s0x14d34fa90c4ee785:0x531c7e01d973a138!8m2!3d39.9149599!4d32.856659"
 	},
 	{
 		"mekanId":"3",
@@ -23,8 +23,8 @@
 		"mekanAdi":"Eski Yeni",
 		"mekanAdres":"İnkılap Sk. 6/A",
 		"mekanIlce":"Çankaya İlçesi",
-		"mekanAciklama":"Bu mekanın puanı 3,6'dır."
-	    ,"mekanAdresLink":"https://www.google.com/maps/place/eSkiyEni/@39.9224398,32.8533995,17z/data=!4m12!1m6!3m5!1s0x14d34e5519c20de9:0x12d9a0124157c12!2seSkiyEni!8m2!3d39.922436!4d32.855717!3m4!1s0x14d34e5519c20de9:0x12d9a0124157c12!8m2!3d39.922436!4d32.855717"
+		"mekanAciklama":"Bu mekanın puanı 3,6'dır.",
+	        "mekanAdresLink":"https://www.google.com/maps/place/eSkiyEni/@39.9224398,32.8533995,17z/data=!4m12!1m6!3m5!1s0x14d34e5519c20de9:0x12d9a0124157c12!2seSkiyEni!8m2!3d39.922436!4d32.855717!3m4!1s0x14d34e5519c20de9:0x12d9a0124157c12!8m2!3d39.922436!4d32.855717"
 	},
 	{
 		"mekanId":"4",
@@ -32,8 +32,8 @@
 		"mekanAdi":"Nazende",
 		"mekanAdres":"Bahçelievler, Aşkabat Caddesi",
 		"mekanIlce":"Çankaya İlçesi",
-		"mekanAciklama":"Bu mekanın puanı 4,1'dir."
-	    ,"mekanAdresLink":"https://www.google.com/maps/place/Nazende+Meyhane%26Fas%C4%B1l/@39.9225545,32.7855477,12z/data=!4m9!1m2!2m1!1snazende!3m5!1s0x0:0xb98b741b8f5c4cd3!8m2!3d39.9203472!4d32.8266433!15sCgduYXplbmRlWgkiB25hemVuZGWSAQpyZXN0YXVyYW50"
+		"mekanAciklama":"Bu mekanın puanı 4,1'dir.",
+	        "mekanAdresLink":"https://www.google.com/maps/place/Nazende+Meyhane%26Fas%C4%B1l/@39.9225545,32.7855477,12z/data=!4m9!1m2!2m1!1snazende!3m5!1s0x0:0xb98b741b8f5c4cd3!8m2!3d39.9203472!4d32.8266433!15sCgduYXplbmRlWgkiB25hemVuZGWSAQpyZXN0YXVyYW50"
 	},
 	{
 		"mekanId":"5",
@@ -41,7 +41,7 @@
 		"mekanAdi":"Ruhi Bey Meyhanesi",
 		"mekanAdres":"Gaziosmanpaşa, Arjantin Caddesi 40/A",
 		"mekanIlce":"Çankaya İlçesi",
-		"mekanAciklama":"Bu mekanın puanı 4,3'tür."
-	,"mekanAdresLink":"https://www.google.com/maps/place/Ruhibey+meyhanesi/@39.8974967,32.8613467,16z/data=!4m12!1m6!3m5!1s0x14d34f7075637d7d:0x9f2d8ac31950e42!2sRuhibey+meyhanesi!8m2!3d39.8971895!4d32.865781!3m4!1s0x14d34f7075637d7d:0x9f2d8ac31950e42!8m2!3d39.8971895!4d32.865781"
+		"mekanAciklama":"Bu mekanın puanı 4,3'tür.",
+	        "mekanAdresLink":"https://www.google.com/maps/place/Ruhibey+meyhanesi/@39.8974967,32.8613467,16z/data=!4m12!1m6!3m5!1s0x14d34f7075637d7d:0x9f2d8ac31950e42!2sRuhibey+meyhanesi!8m2!3d39.8971895!4d32.865781!3m4!1s0x14d34f7075637d7d:0x9f2d8ac31950e42!8m2!3d39.8971895!4d32.865781"
 	}
 ]}
