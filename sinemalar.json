@@ -1,0 +1,47 @@
+{ "sinemalar":[
+    {
+		"mekanId":"1",
+		"mekanResim":"buyulufener",
+		"mekanAdi":"Büyülü Fener",
+		"mekanAdres":"Kocatepe Mahallesi Meşrutiyet Caddesi",
+		"mekanIlce":"Çankaya İlçesi",
+		"mekanAciklama":"Ankara'nın Bahçelievler semtinde 1996 yılında açılmıştır. Türkân Şoray, Şener Şen ve Tarık Akan, Yavuz Turgul, Atıf Yılmaz, Atilla Dorsay isimli 6 ayrı sinema salonu vardır. Sinema, Denk Ajans'a aittir.",
+		"mekanAdresLink":"https://www.google.com/maps/place/B%C3%BCy%C3%BCl%C3%BC+Fener+Sinemas%C4%B1/@39.9165675,32.8499051,15z/data=!4m9!1m2!2m1!1zYsO8ecO8bMO8IGZlbmVyIHNpbmVtYWxhcsSx!3m5!1s0x0:0x3cc7937d670ea6fa!8m2!3d39.9177242!4d32.8584067!15sChtiw7x5w7xsw7wgZmVuZXIgc2luZW1hbGFyxLGSAQ1tb3ZpZV90aGVhdGVy"
+	},
+	{
+		"mekanId":"2",
+		"mekanResim":"bilkentprestige",
+		"mekanAdi":"Bilkent Prestige",
+		"mekanAdres":"Üniversiteler, 1597. Cd. No:3, 06800",
+		"mekanIlce":"Çankaya İlçesi",
+		"mekanAciklama":"Ankara'nın Bilkent semtinde bulunan bir sinema salonudur.",
+		"mekanAdresLink":"https://www.google.com/maps/place/Bilkent+Prestige+Sinemalar%C4%B1/@39.8841542,32.7540901,16z/data=!4m12!1m6!3m5!1s0x14d3472ad374c721:0x44b7609ece719a65!2sBilkent+Prestige+Sinemalar%C4%B1!8m2!3d39.8837676!4d32.7584031!3m4!1s0x14d3472ad374c721:0x44b7609ece719a65!8m2!3d39.8837676!4d32.7584031"
+	},
+	{
+		"mekanId":"3",
+		"mekanResim":"optimumavsar",
+		"mekanAdi":"Optimum Avşar",
+		"mekanAdres":"Meşrutiyet, Konur Sok. No:45, 06420",
+		"mekanIlce":"Çankaya İlçesi",
+		"mekanAciklama":"Optimum AVM içinde bulunan bir sinema salonudur.",
+		"mekanAdresLink":"https://www.google.com/maps/place/Av%C5%9Far+Sinema+%2F+Ankara+Metropol/@39.9201568,32.7187339,11z/data=!4m9!1m2!2m1!1soptimum+av%C5%9Far!3m5!1s0x0:0x5a5f7b489418abe3!8m2!3d39.9163482!4d32.8573321!15sCg5vcHRpbXVtIGF2xZ9hcloQIg5vcHRpbXVtIGF2xZ9hcpIBDW1vdmllX3RoZWF0ZXI"
+	},
+	{
+		"mekanId":"4",
+		"mekanResim":"arcadium",
+		"mekanAdi":"Arcadium",
+		"mekanAdres":"Koru,2432.Cd.No:192",
+		"mekanIlce":"Çankaya İlçesi",
+		"mekanAciklama":"Arcadium alışveriş Merkezinde bulunan bir sinema salonudur.",
+		"mekanAdresLink":"https://www.google.com/maps/place/Arcadium+Sinemalar%C4%B1/@39.8828571,32.6769362,15z/data=!4m9!1m2!2m1!1sarcadium!3m5!1s0x0:0xbc552dfa1ca60efa!8m2!3d39.882525!4d32.6859243!15sCghhcmNhZGl1bZIBDW1vdmllX3RoZWF0ZXI"
+	},
+	{
+		"mekanId":"5",
+		"mekanResim":"cinemaximum",
+		"mekanAdi":"Cinemaximum Podium",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Yenimahalle İlçesi",
+		"mekanAciklama":"Podium Avm'de bulunan bir sinema salonudur",
+		"mekanAdresLink":"https://www.google.com/maps/place/Cinemaximum+Podium+AVM/@39.9059197,32.0044468,8z/data=!4m9!1m2!2m1!1scinemaximum+podium!3m5!1s0x0:0x1cb64c2b680e9b8e!8m2!3d39.9619792!4d32.7689106!15sChJjaW5lbWF4aW11bSBwb2RpdW0iA4gBAVoUIhJjaW5lbWF4aW11bSBwb2RpdW2SAQ1tb3ZpZV90aGVhdGVymgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU4zTFc4M1JsRm5FQUU"
+	}
+	]}
