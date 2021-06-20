@@ -6,7 +6,8 @@
 		"mekanAdres":"Kavaklıdere, Kızılırmak Cd. No:14, 06420",
 		"mekanIlce":"Çankaya İlçesi",
 		"mekanAciklama":"Sevdiğiniz sanatçıların en keyifli sahne performansları Ankara Jolly Joker'de!",
-		"mekanAdresLink":"https://www.google.com/maps/place/Jolly+Joker+Ankara/@39.9149379,32.8537801,16z/data=!4m12!1m6!3m5!1s0x14d34fa938960ad5:0xc3fc4d94f126f2d8!2sJolly+Joker+Ankara!8m2!3d39.9146178!4d32.8582261!3m4!1s0x14d34fa938960ad5:0xc3fc4d94f126f2d8!8m2!3d39.9146178!4d32.8582261"
+		"mekanAdresLink":"https://www.google.com/maps/place/Jolly+Joker+Ankara/@39.9149379,32.8537801,16z/data=!4m12!1m6!3m5!1s0x14d34fa938960ad5:0xc3fc4d94f126f2d8!2sJolly+Joker+Ankara!8m2!3d39.9146178!4d32.8582261!3m4!1s0x14d34fa938960ad5:0xc3fc4d94f126f2d8!8m2!3d39.9146178!4d32.8582261",
+	    "resimLink":"https://www.meyhankoli.com/img/places/source_seo/jolly-joker-201904100228470.jpg"
 	},
 	{
 		"mekanId":"2",
@@ -15,8 +16,9 @@
 		"mekanAdres":"Kavaklıdere, Esat Cd. No:25, 06680",
 		"mekanIlce":"Çankaya İlçesi",
 		"mekanAciklama":"Arkadaşlarınızla birlikte müzik dinleyip dans edebileceğiniz bir mekan.",
-		"mekanAdresLink":"https://www.google.com/maps/place/Sakl%C4%B1kent/@39.9138301,32.8540356,16z/data=!4m12!1m6!3m5!1s0x14d34fa8d85a379b:0xfe76f06d2f45d39c!2sSakl%C4%B1kent!8m2!3d39.913493!4d32.8584559!3m4!1s0x14d34fa8d85a379b:0xfe76f06d2f45d39c!8m2!3d39.913493!4d32.8584559"
-	},
+		"mekanAdresLink":"https://www.google.com/maps/place/Sakl%C4%B1kent/@39.9138301,32.8540356,16z/data=!4m12!1m6!3m5!1s0x14d34fa8d85a379b:0xfe76f06d2f45d39c!2sSakl%C4%B1kent!8m2!3d39.913493!4d32.8584559!3m4!1s0x14d34fa8d85a379b:0xfe76f06d2f45d39c!8m2!3d39.913493!4d32.8584559",
+		"resimLink":"http://4.bp.blogspot.com/_5NYe3x077HI/SOneeTTHO-I/AAAAAAAAAFI/vnI7KDuNdLM/s200/B212353820030708_1.jpg"
+},
 	{
 		"mekanId":"3",
 		"mekanResim":"congresium",
@@ -24,7 +26,8 @@
 		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
 		"mekanIlce":"Çankaya İlçesi",
 		"mekanAciklama":"Bu mekan alıcı olarak kapatılmıştır.",
-		"mekanAdresLink":"https://www.google.com/maps/place/Armada+Al%C4%B1%C5%9Fveri%C5%9F+ve+%C4%B0%C5%9F+Merkezi/@39.9118616,32.8038758,16z/data=!4m9!1m2!2m1!1scongresium!3m5!1s0x0:0xc99085df9dc02ed7!8m2!3d39.912703!4d32.809021!15sCgpjb25ncmVzaXVtWgwiCmNvbmdyZXNpdW2SAQ9zaG9wcGluZ19jZW50ZXI"
+		"mekanAdresLink":"https://www.google.com/maps/place/Armada+Al%C4%B1%C5%9Fveri%C5%9F+ve+%C4%B0%C5%9F+Merkezi/@39.9118616,32.8038758,16z/data=!4m9!1m2!2m1!1scongresium!3m5!1s0x0:0xc99085df9dc02ed7!8m2!3d39.912703!4d32.809021!15sCgpjb25ncmVzaXVtWgwiCmNvbmdyZXNpdW2SAQ9zaG9wcGluZ19jZW50ZXI",
+		"resimLink":"https://assets.orayanasilgiderim.com/destination-img/congresium.jpg"
 	},
 	{
 		"mekanId":"4",
@@ -33,7 +36,8 @@
 		"mekanAdres":"Kültür ve Kongre Merkezi, ODTÜ",
 		"mekanIlce":"Çankaya İlçesi",
 		"mekanAciklama":"ODTÜ Kültür ve Kongre Merkezinde gerçekleştirilecek etkinliklerin bilet satışları Biletix üzerinden yapılmaktadır.  Etkinliği gerçekleştiren firma ODTÜ KKM'de etkinlikten onbeş gün önce bilet satış yapma hakkına sahiptir.",
-		"mekanAdresLink":"https://www.google.com/maps/place/ODT%C3%9C+K%C3%9CLT%C3%9CR+VE+KONGRE+MERKEZ%C4%B0/@39.8948965,32.7839142,17z/data=!4m12!1m6!3m5!1s0x14d35a9555555555:0x218b4bbd5313cf7d!2zT0RUw5wgS8OcTFTDnFIgVkUgS09OR1JFIE1FUktFWsSw!8m2!3d39.8945635!4d32.78606!3m4!1s0x14d35a9555555555:0x218b4bbd5313cf7d!8m2!3d39.8945635!4d32.78606"
+		"mekanAdresLink":"https://www.google.com/maps/place/ODT%C3%9C+K%C3%9CLT%C3%9CR+VE+KONGRE+MERKEZ%C4%B0/@39.8948965,32.7839142,17z/data=!4m12!1m6!3m5!1s0x14d35a9555555555:0x218b4bbd5313cf7d!2zT0RUw5wgS8OcTFTDnFIgVkUgS09OR1JFIE1FUktFWsSw!8m2!3d39.8945635!4d32.78606!3m4!1s0x14d35a9555555555:0x218b4bbd5313cf7d!8m2!3d39.8945635!4d32.78606",
+		"resimLink":"https://kkm.metu.edu.tr/sites/kkm.metu.edu.tr/files/styles/slider_image/public/slider/standard_image/odtu-kkm_kemal_kurdas_salonu.jpg?itok=i_km7wIG"
 	},
 	{
 		"mekanId":"5",
@@ -42,6 +46,7 @@
 		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
 		"mekanIlce":"Çankaya İlçesi",
 		"mekanAciklama":"Hayal Kahvesi’nin 1992'de Beyoğlu’nda başlayan serüveni, Eylül’den itibaren Ankara’da devam ediyor.",
-		"mekanAdresLink":"https://www.google.com/maps/place/Hayal+kahvesi/@39.8952835,32.6618424,13z/data=!4m9!1m2!2m1!1shayal+kahvesi!3m5!1s0x0:0x299120087b19d8b2!8m2!3d39.9019007!4d32.6914733!15sCg1oYXlhbCBrYWh2ZXNpkgEKcmVzdGF1cmFudA"
+		"mekanAdresLink":"https://www.google.com/maps/place/Hayal+kahvesi/@39.8952835,32.6618424,13z/data=!4m9!1m2!2m1!1shayal+kahvesi!3m5!1s0x0:0x299120087b19d8b2!8m2!3d39.9019007!4d32.6914733!15sCg1oYXlhbCBrYWh2ZXNpkgEKcmVzdGF1cmFudA",
+		"resimLink":"https://static.daktilo.com/sites/533/uploads/2019/11/20/175824-0.jpg"
 	}
 ]}
