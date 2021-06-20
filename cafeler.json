@@ -48,6 +48,8 @@
       "mekanIlce": "Çankaya İlçesi",
       "mekanAciklama": "Bu işletmeye kullanıcıların Google üzerinden verdiği puan 4,4'tür.",
       "mekanAdresLink": "https://www.google.com/maps/place/Aylak+Madam/@39.9137187,32.8471092,15z/data=!4m12!1m6!3m5!1s0x14d34fa85a80ae15:0x2049188b1ceeb962!2sAylak+Madam!8m2!3d39.913719!4d32.8558637!3m4!1s0x14d34fa85a80ae15:0x2049188b1ceeb962!8m2!3d39.913719!4d32.8558637"
+      ,"resimLink": "https://www.google.com/maps/place/Aylak+Madam/@39.9137187,32.8471092,15z/data=!4m12!1m6!3m5!1s0x14d34fa85a80ae15:0x2049188b1ceeb962!2sAylak+Madam!8m2!3d39.913719!4d32.8558637!3m4!1s0x14d34fa85a80ae15:0x2049188b1ceeb962!8m2!3d39.913719!4d32.8558637"
+
     },
     {
       "mekanId": "6",
@@ -56,7 +58,9 @@
       "mekanAdres": "Kavaklıdere, Kızılırmak Cd. No:17, 0668",
       "mekanIlce": "Çankaya İlçesi",
       "mekanAciklama": "Güleryüzlü çalışanları ve anında hazırlama stratejisi ile sıcacık bir kahve deneyimi yaşayabilirsiniz.",
-      "mekanAdresLink": "https://www.google.com/maps/place/Kakule+Kahve/@39.9149386,32.8490591,15z/data=!4m12!1m6!3m5!1s0x14d34fa94156be53:0x37bc9108fdb9eece!2sKakule+Kahve!8m2!3d39.9149472!4d32.8579814!3m4!1s0x14d34fa94156be53:0x37bc9108fdb9eece!8m2!3d39.9149472!4d32.8579814"
+      "mekanAdresLink": "https://www.google.com/maps/place/Kakule+Kahve/@39.9149386,32.8490591,15z/data=!4m12!1m6!3m5!1s0x14d34fa94156be53:0x37bc9108fdb9eece!2sKakule+Kahve!8m2!3d39.9149472!4d32.8579814!3m4!1s0x14d34fa94156be53:0x37bc9108fdb9eece!8m2!3d39.9149472!4d32.8579814",
+      ,"resimLink": "https://www.google.com/maps/place/Aylak+Madam/@39.9137187,32.8471092,15z/data=!4m12!1m6!3m5!1s0x14d34fa85a80ae15:0x2049188b1ceeb962!2sAylak+Madam!8m2!3d39.913719!4d32.8558637!3m4!1s0x14d34fa85a80ae15:0x2049188b1ceeb962!8m2!3d39.913719!4d32.8558637"
+
     },
     {
       "mekanId": "7",
@@ -66,6 +70,8 @@
       "mekanIlce": "Çankaya İlçesi",
       "mekanAciklama": "Casual dining yani rahat bir ortam statüsünde hizmet veren The Bigos Ankara'lıların beğenisini toplayan mekanların başında geliyor. Menüsünde Meksika, Çin ve Teksas mutfağını da barındırıyor.",
       "mekanAdresLink": "https://www.google.com/maps/place/The+Bigos/@39.9239356,32.8165266,15z/data=!4m9!1m2!2m1!1sthe+bigos!3m5!1s0x0:0x21618e245e4d8ce6!8m2!3d39.9253547!4d32.8250336!15sCgl0aGUgYmlnb3MiA4gBAVoLIgl0aGUgYmlnb3OSAQpyZXN0YXVyYW50"
+      ,"resimLink": "https://www.google.com/maps/place/Aylak+Madam/@39.9137187,32.8471092,15z/data=!4m12!1m6!3m5!1s0x14d34fa85a80ae15:0x2049188b1ceeb962!2sAylak+Madam!8m2!3d39.913719!4d32.8558637!3m4!1s0x14d34fa85a80ae15:0x2049188b1ceeb962!8m2!3d39.913719!4d32.8558637"
+
     },
     {
       "mekanId": "8",
@@ -75,6 +81,8 @@
       "mekanIlce": "Çankaya İlçesi",
       "mekanAciklama": "Açık ve kapalı toplam 600 metrekare kullanım alanına sahip Coffee Lab Bahçeli 7 Şubesi, Aralık 2020’de hizmet vermeye başlamıştır.",
       "mekanAdresLink": "https://www.google.com/maps/place/Coffee+Lab+Bah%C3%A7eli+7/@39.9188337,32.8239169,16z/data=!4m12!1m6!3m5!1s0x14d34fa6d4ae97c7:0x79c32854b57a34ac!2sCoffee+Lab+Bah%C3%A7eli+7!8m2!3d39.9194587!4d32.8273691!3m4!1s0x14d34fa6d4ae97c7:0x79c32854b57a34ac!8m2!3d39.9194587!4d32.8273691"
+    , "resimLink": "https://www.google.com/maps/place/Aylak+Madam/@39.9137187,32.8471092,15z/data=!4m12!1m6!3m5!1s0x14d34fa85a80ae15:0x2049188b1ceeb962!2sAylak+Madam!8m2!3d39.913719!4d32.8558637!3m4!1s0x14d34fa85a80ae15:0x2049188b1ceeb962!8m2!3d39.913719!4d32.8558637"
+
     }
   ]
 }
