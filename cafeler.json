@@ -1,0 +1,75 @@
+{ "cafeler":[
+    {
+		"mekanId":"1",
+		"mekanResim":"cafebotanica",
+		"mekanAdi":"Cafe Botanica",
+		"mekanAdres":"Barbaros, 5/1, Billur Sk., 06680",
+		"mekanIlce":"Çankaya İlçesi",
+		"mekanAciklama":"Çiçeklerin ve Vintage Ruhunun Eşsiz Uyumu Olan Cafe Botanica Keşfetmeniz İçin Sizleri Bekliyor",
+		"mekanAdresLink":"https://www.google.com/maps/place/Cafe+Botanica/@39.9041779,32.859953,17z/data=!4m12!1m6!3m5!1s0x14d34fa3741dbb91:0x4299c828f39b2751!2sCafe+Botanica!8m2!3d39.9046689!4d32.8622286!3m4!1s0x14d34fa3741dbb91:0x4299c828f39b2751!8m2!3d39.9046689!4d32.8622286"
+	},
+	{
+		"mekanId":"2",
+		"mekanResim":"carmelos",
+		"mekanAdi":"Carmelo's Every 7 Day Eat Well",
+		"mekanAdres":"Beştepe, VIA Flat, Nergiz Sk. No:7/34, 06560",
+		"mekanIlce":"Çankaya İlçesi",
+		"mekanAciklama":"Bu mekan için Google üzerinden verilen kullanıcı puanı ortalaması 5 üzerinden 4,4'tür.",
+		"mekanAdresLink":"https://www.google.com/maps/place/Carmelo's+Cafe+%26+Brasserie/@39.9138382,32.8067767,17z/data=!4m12!1m6!3m5!1s0x14d34f4b4e4db581:0x2b9bc61a07565a22!2sCarmelo's+Cafe+%26+Brasserie!8m2!3d39.9139775!4d32.8089363!3m4!1s0x14d34f4b4e4db581:0x2b9bc61a07565a22!8m2!3d39.9139775!4d32.8089363"
+	},
+	{
+		"mekanId":"3",
+		"mekanResim":"turtahome",
+		"mekanAdi":"Turta Home Cafe",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Çankaya İlçesi",
+		"mekanAciklama":"Turta Home Cafe 2005 yılında müşterilerine tamamen doğal ürünlerini, sıcak ev ortamında sunmayı amaç edinerek serüvenine başlamıştır. Bünyesinde tamamen ev yapımı pastalar, çörekler ve kekler üreterek butik bir cafe & pastane olarak hizmet veriyor.",
+		"mekanAdresLink":"https://www.google.com/maps/place/Turta+Home+Cafe/@39.8946084,32.6959263,15z/data=!4m12!1m6!3m5!1s0x14d3376d3caca3e3:0xb92189df3c735eea!2sTurta+Home+Cafe!8m2!3d39.8946087!4d32.7046811!3m4!1s0x14d3376d3caca3e3:0xb92189df3c735eea!8m2!3d39.8946087!4d32.7046811"
+	},
+	{
+		"mekanId":"4",
+		"mekanResim":"cafedescafes",
+		"mekanAdi":"Cafe Des Cafes",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Çankaya İlçesi",
+		"mekanAciklama":"Güleryüzlü personeli ile 20 yıllık lezzet garantisi veren sevimli bir mekan.",
+		"mekanAdresLink":"https://www.google.com/maps/place/Cafe+des+Cafes/@39.8937441,32.6294495,12z/data=!4m9!1m2!2m1!1scafe+des+cafes!3m5!1s0x0:0x6e765180d8d1ac14!8m2!3d39.9005644!4d32.6916087!15sCg5jYWZlIGRlcyBjYWZlc1oQIg5jYWZlIGRlcyBjYWZlc5IBCnJlc3RhdXJhbnQ"
+	},
+	{
+		"mekanId":"5",
+		"mekanResim":"aylakmadam",
+		"mekanAdi":"Aylak Madam",
+		"mekanAdres":"Kavaklı Dere Mah., Karanfil Sk. D:77, 06640",
+		"mekanIlce":"Çankaya İlçesi",
+		"mekanAciklama":"Bu işletmeye kullanıcıların Google üzerinden verdiği puan 4,4'tür.",
+		"mekanAdresLink":"https://www.google.com/maps/place/Aylak+Madam/@39.9137187,32.8471092,15z/data=!4m12!1m6!3m5!1s0x14d34fa85a80ae15:0x2049188b1ceeb962!2sAylak+Madam!8m2!3d39.913719!4d32.8558637!3m4!1s0x14d34fa85a80ae15:0x2049188b1ceeb962!8m2!3d39.913719!4d32.8558637"
+	},
+	{
+		"mekanId":"6",
+		"mekanResim":"kakule",
+		"mekanAdi":"Kakule Kahve",
+		"mekanAdres":"Kavaklıdere, Kızılırmak Cd. No:17, 0668",
+		"mekanIlce":"Çankaya İlçesi",
+		"mekanAciklama":"Güleryüzlü çalışanları ve anında hazırlama stratejisi ile sıcacık bir kahve deneyimi yaşayabilirsiniz.",
+		"mekanAdresLink":"https://www.google.com/maps/place/Kakule+Kahve/@39.9149386,32.8490591,15z/data=!4m12!1m6!3m5!1s0x14d34fa94156be53:0x37bc9108fdb9eece!2sKakule+Kahve!8m2!3d39.9149472!4d32.8579814!3m4!1s0x14d34fa94156be53:0x37bc9108fdb9eece!8m2!3d39.9149472!4d32.8579814"
+	},
+	{
+		"mekanId":"7",
+		"mekanResim":"thebigos",
+		"mekanAdi":"The Bigos",
+		"mekanAdres":"Bahçelievler, 50. Sk. No:6, 06490",
+		"mekanIlce":"Çankaya İlçesi",
+		"mekanAciklama":"Casual dining yani rahat bir ortam statüsünde hizmet veren The Bigos Ankara'lıların beğenisini toplayan mekanların başında geliyor. Menüsünde Meksika, Çin ve Teksas mutfağını da barındırıyor.",
+		"mekanAdresLink":"https://www.google.com/maps/place/The+Bigos/@39.9239356,32.8165266,15z/data=!4m9!1m2!2m1!1sthe+bigos!3m5!1s0x0:0x21618e245e4d8ce6!8m2!3d39.9253547!4d32.8250336!15sCgl0aGUgYmlnb3MiA4gBAVoLIgl0aGUgYmlnb3OSAQpyZXN0YXVyYW50"
+	},
+	{
+		"mekanId":"8",
+		"mekanResim":"coffeelab",
+		"mekanAdi":"Coffee Lab",
+		"mekanAdres":"Bahçelievler, Aşkabat Cd. No :45, 06490",
+		"mekanIlce":"Çankaya İlçesi",
+		"mekanAciklama":"Açık ve kapalı toplam 600 metrekare kullanım alanına sahip Coffee Lab Bahçeli 7 Şubesi, Aralık 2020’de hizmet vermeye başlamıştır.",
+		"mekanAdresLink":"https://www.google.com/maps/place/Coffee+Lab+Bah%C3%A7eli+7/@39.9188337,32.8239169,16z/data=!4m12!1m6!3m5!1s0x14d34fa6d4ae97c7:0x79c32854b57a34ac!2sCoffee+Lab+Bah%C3%A7eli+7!8m2!3d39.9194587!4d32.8273691!3m4!1s0x14d34fa6d4ae97c7:0x79c32854b57a34ac!8m2!3d39.9194587!4d32.8273691"
+	}
+]
+}
