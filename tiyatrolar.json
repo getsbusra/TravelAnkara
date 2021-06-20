@@ -1,0 +1,57 @@
+{ "tiyatrolar":[
+    {
+		"mekanId":"1",
+		"mekanResim":"yetmisbes",
+		"mekanAdi":"75. Yıl Sahnesi",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Çankaya İlçesi",
+		"mekanAciklama":"Ankara'da Devlet Tiyatroları'na bağlı olarak hizmet veren sahnelerden biridir. 268 koltuk kapasiteli, küçük ölçekli bir salona sahip olan tiyatroda genelde oyuncu kadrosu kalabalık olmayan oyunlar sergilenmektedir.",
+		"mekanAdresLink":"https://www.google.com/maps/place/Devlet+Tiyatrolar%C4%B1+75.+Y%C4%B1l+Sahnesi/@39.9237909,32.8524827,16z/data=!4m12!1m6!3m5!1s0x14d34e54515fa83d:0xceb17f877db986b2!2sDevlet+Tiyatrolar%C4%B1+75.+Y%C4%B1l+Sahnesi!8m2!3d39.9241064!4d32.8565648!3m4!1s0x14d34e54515fa83d:0xceb17f877db986b2!8m2!3d39.9241064!4d32.8565648"
+	},
+	{
+		"mekanId":"2",
+		"mekanResim":"akun",
+		"mekanAdi":"Akün Sahnesi",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Altındağ İlçesi",
+		"mekanAciklama":"1975-2002 yılları arasında Ankara Atatürk Bulvarı, 227 numaralı binada hizmet veren, bir dönem Ankara'nın en büyük sineması olma özelliği taşıyan ve Ankara'nın sembollerinden biri olarak kabul edilen, 911 koltuk kapasiteli tiyatro salonu.",
+		"mekanAdresLink":"https://www.google.com/maps/place/Ak%C3%BCn+Sahnesi/@39.930966,32.8480716,15z/data=!4m9!1m2!2m1!1sak%C3%BCn+sahnesi!3m5!1s0x0:0x9db8bfe97c228093!8m2!3d39.9342915!4d32.8568981!15sCg1ha8O8biBzYWhuZXNpkgEXcGVyZm9ybWluZ19hcnRzX3RoZWF0ZXI"
+	},
+	{
+		"mekanId":"3",
+		"mekanResim":"altindag",
+		"mekanAdi":"Altındağ Tiyatrosu",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Altındağ",
+		"mekanAciklama":"Ankara'nın Altındağ ilçesinde bir tiyatro. Devlet Tiyatroları tarafından işletilmektedir.",
+		"mekanAdresLink":"https://www.google.com/maps/place/Alt%C4%B1nda%C4%9F+Tiyatrosu/@39.9529191,32.8690846,16z/data=!4m12!1m6!3m5!1s0x14d34e7580800425:0xecffbcf19c4c81b1!2zQWx0xLFuZGHEnyBUaXlhdHJvc3U!8m2!3d39.952558!4d32.8733339!3m4!1s0x14d34e7580800425:0xecffbcf19c4c81b1!8m2!3d39.952558!4d32.8733339"
+	},
+	{
+		"mekanId":"4",
+		"mekanResim":"cermodern",
+		"mekanAdi":"CerModern Sahnesi",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Altındağ İlçesi",
+		"mekanAciklama":"2010'da açılan bu sahne, eski demir yolu fabrikasında modern sanat sergi ve etkinliklerine ev sahipliği yapar.",
+		"mekanAdresLink":"https://www.google.com/maps/place/Cermodern/@39.9315212,32.848121,18z/data=!4m12!1m6!3m5!1s0x14d34ef9ebf171b5:0x7f8d115ee1dbf9ac!2sCermodern!8m2!3d39.9317634!4d32.8492313!3m4!1s0x14d34ef9ebf171b5:0x7f8d115ee1dbf9ac!8m2!3d39.9317634!4d32.8492313"
+	},
+	{
+		"mekanId":"5",
+		"mekanResim":"buyuktiyatro",
+		"mekanAdi":"Büyük Tiyatro",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Altındağ İlçesi",
+		"mekanAciklama":"Ankara Opera Sahnesi, Büyük Tiyatro, Ankara'da 1933'te sergi sarayı olarak inşa edilen binanın 1948'de opera binası haline dönüştürülmesi ile ortaya çıkan ve içinde bulunduğu semte adını veren yapıdır.",
+		"mekanAdresLink":"https://www.google.com/maps/place/B%C3%BCy%C3%BCk+Tiyatro+%2F+Opera/@39.9349429,32.8515476,17z/data=!4m12!1m6!3m5!1s0x14d34ef60330a9a7:0xe8e39a6e48328fe!2zQsO8ecO8ayBUaXlhdHJvIC8gT3BlcmE!8m2!3d39.9353482!4d32.8535975!3m4!1s0x14d34ef60330a9a7:0xe8e39a6e48328fe!8m2!3d39.9353482!4d32.8535975"
+	},
+	{
+		"mekanId":"6",
+		"mekanResim":"sinasi",
+		"mekanAdi":"Şinasi Sahnesi",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Altındağ",
+		"mekanAciklama":"Şinasi Sahnesi Ankara'da yerleşik olan Devlet Tiyatroları'nın sahnelerinden biri. Bir tarafı Atatürk Bulvarı’na, diğer tarafı Tunus Caddesi’ne bakan sahne 1988'de açıldı.",
+		"mekanAdresLink":"https://www.google.com/maps/place/%C5%9Einasi+Sahnesi/@39.9032055,32.8571128,17z/data=!4m12!1m6!3m5!1s0x14d34fa3d7651feb:0xa44085bf78db35f2!2s%C5%9Einasi+Sahnesi!8m2!3d39.9040659!4d32.8594188!3m4!1s0x14d34fa3d7651feb:0xa44085bf78db35f2!8m2!3d39.9040659!4d32.8594188"
+	}
+]
+}
