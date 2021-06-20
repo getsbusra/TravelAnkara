@@ -6,7 +6,8 @@
 		"mekanAdres":"Kavaklıdere, Tunus Cad. 19/A",
 		"mekanIlce":"Çankaya İlçesi",
 		"mekanAciklama":"Bu mekanın puanı 4,7'dir.",
-		"mekanAdresLink":"https://www.google.com/maps/place/James+Cook+Cafe,+Pub+%26+Restoran/@39.9060698,32.8238246,13z/data=!4m9!1m2!2m1!1scinemaximum+james+cook+cafe%26pub!3m5!1s0x0:0xf483523a090e86da!8m2!3d39.9113456!4d32.8567533!15sCh9jaW5lbWF4aW11bSBqYW1lcyBjb29rIGNhZmUgcHViIgOIAQGSAQNwdWI"
+		"mekanAdresLink":"https://www.google.com/maps/place/James+Cook+Cafe,+Pub+%26+Restoran/@39.9060698,32.8238246,13z/data=!4m9!1m2!2m1!1scinemaximum+james+cook+cafe%26pub!3m5!1s0x0:0xf483523a090e86da!8m2!3d39.9113456!4d32.8567533!15sCh9jaW5lbWF4aW11bSBqYW1lcyBjb29rIGNhZmUgcHViIgOIAQGSAQNwdWI",
+	       "resimLink":"https://www.meyhankoli.com/img/cropped/james-cook-cafe-pub-restoran-4718.jpg"
 	},
 	{
 		"mekanId":"2",
@@ -15,7 +16,8 @@
 		"mekanAdres":"Olgunlar Caddesi No:1, 06110",
 		"mekanIlce":"Çankaya İlçesi",
 		"mekanAciklama":"Bu mekanın puanı 4,3'tür.",
-	    "mekanAdresLink":"https://www.google.com/maps/place/The+Soul+Pub/@39.9152464,32.8523065,16z/data=!4m12!1m6!3m5!1s0x14d34fa90c4ee785:0x531c7e01d973a138!2sThe+Soul+Pub!8m2!3d39.9149599!4d32.856659!3m4!1s0x14d34fa90c4ee785:0x531c7e01d973a138!8m2!3d39.9149599!4d32.856659"
+	    "mekanAdresLink":"https://www.google.com/maps/place/The+Soul+Pub/@39.9152464,32.8523065,16z/data=!4m12!1m6!3m5!1s0x14d34fa90c4ee785:0x531c7e01d973a138!2sThe+Soul+Pub!8m2!3d39.9149599!4d32.856659!3m4!1s0x14d34fa90c4ee785:0x531c7e01d973a138!8m2!3d39.9149599!4d32.856659",
+		"resimLink":"https://b.zmtcdn.com/data/pictures/5/6000225/eeb6b8191d4c135684ffad2492678f1f.jpg"
 	},
 	{
 		"mekanId":"3",
@@ -24,7 +26,8 @@
 		"mekanAdres":"İnkılap Sk. 6/A",
 		"mekanIlce":"Çankaya İlçesi",
 		"mekanAciklama":"Bu mekanın puanı 3,6'dır.",
-	    "mekanAdresLink":"https://www.google.com/maps/place/eSkiyEni/@39.9224398,32.8533995,17z/data=!4m12!1m6!3m5!1s0x14d34e5519c20de9:0x12d9a0124157c12!2seSkiyEni!8m2!3d39.922436!4d32.855717!3m4!1s0x14d34e5519c20de9:0x12d9a0124157c12!8m2!3d39.922436!4d32.855717"
+	    "mekanAdresLink":"https://www.google.com/maps/place/eSkiyEni/@39.9224398,32.8533995,17z/data=!4m12!1m6!3m5!1s0x14d34e5519c20de9:0x12d9a0124157c12!2seSkiyEni!8m2!3d39.922436!4d32.855717!3m4!1s0x14d34e5519c20de9:0x12d9a0124157c12!8m2!3d39.922436!4d32.855717",
+		"resimLink":"https://cdn.nerde.co/eski-yeni-1518060818.jpeg"
 	},
 	{
 		"mekanId":"4",
@@ -33,7 +36,8 @@
 		"mekanAdres":"Bahçelievler, Aşkabat Caddesi",
 		"mekanIlce":"Çankaya İlçesi",
 		"mekanAciklama":"Bu mekanın puanı 4,1'dir.",
-	    "mekanAdresLink":"https://www.google.com/maps/place/Nazende+Meyhane%26Fas%C4%B1l/@39.9225545,32.7855477,12z/data=!4m9!1m2!2m1!1snazende!3m5!1s0x0:0xb98b741b8f5c4cd3!8m2!3d39.9203472!4d32.8266433!15sCgduYXplbmRlWgkiB25hemVuZGWSAQpyZXN0YXVyYW50"
+	    "mekanAdresLink":"https://www.google.com/maps/place/Nazende+Meyhane%26Fas%C4%B1l/@39.9225545,32.7855477,12z/data=!4m9!1m2!2m1!1snazende!3m5!1s0x0:0xb98b741b8f5c4cd3!8m2!3d39.9203472!4d32.8266433!15sCgduYXplbmRlWgkiB25hemVuZGWSAQpyZXN0YXVyYW50",
+		"resimLink":"https://lh3.googleusercontent.com/proxy/Q8CjwupwBPfq2jZ6cPxPjfZUMa_6XysglBcSDzEdD-h1XhmKhVaf8AyId_kuXa2cWupsz5VmlTtVX5DNZshg"
 	},
 	{
 		"mekanId":"5",
@@ -42,6 +46,7 @@
 		"mekanAdres":"Gaziosmanpaşa, Arjantin Caddesi 40/A",
 		"mekanIlce":"Çankaya İlçesi",
 		"mekanAciklama":"Bu mekanın puanı 4,3'tür.",
-    	"mekanAdresLink":"https://www.google.com/maps/place/Ruhibey+meyhanesi/@39.8974967,32.8613467,16z/data=!4m12!1m6!3m5!1s0x14d34f7075637d7d:0x9f2d8ac31950e42!2sRuhibey+meyhanesi!8m2!3d39.8971895!4d32.865781!3m4!1s0x14d34f7075637d7d:0x9f2d8ac31950e42!8m2!3d39.8971895!4d32.865781"
+    	"mekanAdresLink":"https://www.google.com/maps/place/Ruhibey+meyhanesi/@39.8974967,32.8613467,16z/data=!4m12!1m6!3m5!1s0x14d34f7075637d7d:0x9f2d8ac31950e42!2sRuhibey+meyhanesi!8m2!3d39.8971895!4d32.865781!3m4!1s0x14d34f7075637d7d:0x9f2d8ac31950e42!8m2!3d39.8971895!4d32.865781",
+		"resimLink":"https://media-cdn.tripadvisor.com/media/photo-s/06/e8/58/ae/ruhi-bey-meyhanesi.jpg"
 	}
 ]}
