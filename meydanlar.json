@@ -1,0 +1,57 @@
+{ "meydanlar":[
+    {
+		"mekanId":"1",
+		"mekanResim":"anadolumeydani",
+		"mekanAdi":"Anadolu Meydanı",
+		"mekanAdres":"Anıttepe, 06570",
+		"mekanIlce":"Çankaya İli",
+		"mekanAciklama":"Anadolu Meydanı ya da eski adıyla Tandoğan Meydanı, Ankara'da Bahçelievler semtinin alt kısmında bulunan, Yenimahalle ve Çankaya ilçelerinin kesişiminde yer alan kent meydanı.",
+		"mekanAdresLink":"https://www.google.com/maps/place/Anadolu+Meydan%C4%B1/@39.9791876,32.6364824,10z/data=!4m8!1m2!2m1!1sanadolu+meydan%C4%B1!3m4!1s0x14d34ee5b3dfb08d:0xd145b538ef9f3a45!8m2!3d39.9339074!4d32.8385138"
+	},
+	{
+		"mekanId":"2",
+		"mekanResim":"kizilaymeydani",
+		"mekanAdi":"Kızılay Meydanı",
+		"mekanAdres":"06420",
+		"mekanIlce":"Çankaya İli",
+		"mekanAciklama":"Kızılay Türkiye'nin başkenti Ankara'nın merkezinde bulunan Çankaya'da bir semttir. Kızılay Meydanı'nı bünyesinde barındıran semt ismini, 1970'li yılların başında yıkılıncaya kadar mevcut bulunan, Kızılay meydanının hemen yanı başındaki, Kızılay Merkez binasından almıştır.",
+		"mekanAdresLink":"https://www.google.com/maps/place/K%C4%B1z%C4%B1lay,+06420+%C3%87ankaya%2FAnkara/@39.9229646,32.8424233,15z/data=!3m1!4b1!4m9!1m2!2m1!1za8SxesSxbGF5IG1leWRhbsSx!3m5!1s0x14d34effd6b9930b:0x6fa79cbeeeec0bac!8m2!3d39.9220384!4d32.85146!15sChJrxLF6xLFsYXkgbWV5ZGFuxLGSARRhZG1pbmlzdHJhdGl2ZV9hcmVhNA"
+	},
+	{
+		"mekanId":"3",
+		"mekanResim":"operameydani",
+		"mekanAdi":"Opera Meydanı",
+		"mekanAdres":"Anafartalar",
+		"mekanIlce":"Altındağ İli",
+		"mekanAciklama":"Opera Meydanı; Ankara'nın Altındağ ilçesinde bulunan bir kent meydanı. Atatürk Bulvarı üzerinde, Sıhhiye ve Ulus Meydanlarına eşit mesafede bulunur. Eskiden ev sahipliği yaptığı pek çok fabrika, atölye ve üretim tesisi sayesinde bir dönem şehrin sanayi merkezlerinden birisi olan meydan",
+		"mekanAdresLink":"https://www.google.com/maps/place/Opera+Meydan%C4%B1,+Anafartalar,+06050+Alt%C4%B1nda%C4%9F%2FAnkara/@39.9387934,32.8455785,15z/data=!4m13!1m7!3m6!1s0x14d34e5f7a99064d:0xe49f1072252528d7!2sOpera+Meydan%C4%B1,+Anafartalar,+06050+Alt%C4%B1nda%C4%9F%2FAnkara!3b1!8m2!3d39.937335!4d32.8542481!3m4!1s0x14d34e5f7a99064d:0xe49f1072252528d7!8m2!3d39.937335!4d32.8542481"
+	},
+	{
+		"mekanId":"4",
+		"mekanResim":"silimeydani",
+		"mekanAdi":"Şili Meydanı",
+		"mekanAdres":"Remzi Oğuz Arık Mah. 06680",
+		"mekanIlce":"Çankaya İli",
+		"mekanAciklama":"Şili Meydanı, Ankara'nın Aşağı Ayrancı semtinde bulunan meydan. Türkiye ile Şili arasındaki dostluğu pekiştirmek adına yapılmıştır. Meydanda Şili'nin kurtarıcısı ve Şili Cumhuriyeti'nin kurucusu Bernardo O'Higgins'in anıtı bulunmaktadır.",
+		"mekanAdresLink":"https://www.google.com/maps/place/Remzi+O%C4%9Fuz+Ar%C4%B1k,+%C5%9Eili+Meydan%C4%B1,+06680+%C3%87ankaya%2FAnkara/@39.9011006,32.8553589,17z/data=!4m13!1m7!3m6!1s0x14d34f9f1a01e5ef:0xa5797566b35d4e58!2zUmVtemkgT8SfdXogQXLEsWssIMWeaWxpIE1leWRhbsSxLCAwNjY4MCDDh2Fua2F5YS9BbmthcmE!3b1!8m2!3d39.9006277!4d32.8575154!3m4!1s0x14d34f9f1a01e5ef:0xa5797566b35d4e58!8m2!3d39.9006277!4d32.8575154"
+	},
+	{
+		"mekanId":"5",
+		"mekanResim":"ulusmeydani",
+		"mekanAdi":"Ulus Meydanı",
+		"mekanAdres":"Anafartalar Caddesi No:62",
+		"mekanIlce":"Altındağ İlçesi",
+		"mekanAciklama":"Altındağ ilçesinin Ulus semtinde bulunan meydanın ortasında yer alan 1927 yılında yaptırılan Zafer Anıtı ile Türk Kurtuluş Savaşı yıllarında TBMM hükümeti'nin varlığını sürdürdüğü, sonrasında Türkiye'de cumhuriyetin ilanı sonrası ilk meclis binasının burada olmasıyla ulusal önem kazanmış meydana adını veren de meydanın merkeziyeti oldu.",
+		"mekanAdresLink":"https://www.google.com/maps/place/Ulus+Atat%C3%BCrk+Heykeli/@39.9338062,32.8180647,13z/data=!4m9!1m2!2m1!1sulus+meydan%C4%B1!3m5!1s0x14d34e6038317ba5:0xa324174007072428!8m2!3d39.9417863!4d32.8548263!15sCg11bHVzIG1leWRhbsSxWg8iDXVsdXMgbWV5ZGFuxLGSAQhtb251bWVudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOWk5FdFVPRkpuRUFF"
+	},
+	{
+		"mekanId":"6",
+		"mekanResim":"zafermeydani",
+		"mekanAdi":"Zafer Meydanı",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Altındağ İlçesi",
+		"mekanAciklama":"Zafer Meydanı; Ankara'nın Çankaya ilçesinde bulunan bir meydandır. Atatürk Bulvarı üzerinde yer alan beş önemli meydandan biridir.",
+		"mekanAdresLink":"https://www.google.com/maps/place/Zafer+%C4%B0%C5%9F+Han%C4%B1/@39.9364858,32.8479767,16z/data=!4m9!1m2!2m1!1szafer+meydan%C4%B1!3m5!1s0x0:0xcc1dc3ab7a876a24!8m2!3d39.9372594!4d32.8541446!15sCg56YWZlciBtZXlkYW7EsZIBDWJ1c2luZXNzX3Bhcms"
+	}
+]
+}
