@@ -1,0 +1,84 @@
+{ "parklar":[
+    {
+		"mekanId":"1",
+		"mekanResim":"genclikparki",
+		"mekanAdi":"Gençlik Parkı",
+		"mekanAdres":"Doğanbey Mahallesi, Atatürk Blv No:50, 06050",
+		"mekanIlce":"Altındağ İlçesi",
+		"mekanAciklama":"Gençlik Parkı Ankara'nın tarihi parklarından biridir.Altındağ ilçesinin Ulus semtindeki park, Cumhuriyetin ilk yıllarında bataklıklarla kaplı olan 28 hektar büyüklüğündeki arazide kurulmuştur.",
+	    "mekanAdresLink":"https://www.google.com/maps/place/Gen%C3%A7lik+Park%C4%B1/@39.9365021,32.8479767,16z/data=!4m9!1m2!2m1!1zZ2Vuw6dsaWsgcGFya8Sx!3m5!1s0x0:0xa93a64d9fd769621!8m2!3d39.9370104!4d32.8497594!15sCg9nZW7Dp2xpayBwYXJrxLFaESIPZ2Vuw6dsaWsgcGFya8SxkgEEcGFya5oBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSQmRUZzJiMUJuRUFF"
+	},
+	{
+		"mekanId":"2",
+		"mekanResim":"kugulupark",
+		"mekanAdi":"Kuğulu Park",
+		"mekanAdres":"Kavaklıdere, Tunalı Hilmi Cad., 06660 Çankaya/Ankara",
+		"mekanIlce":"Çankaya İlçesi",
+		"mekanAciklama":"Kuğulu Park, Ankara şehrinin Kavaklıdere mahallesinde bulunan bir parktır. Park, Tunalı Hilmi Caddesi, Atatürk Bulvarı ve Polonya Caddesi'nin arasındadır. Parkın havuzunda, kuğular, kazlar ve ördekler yer alır."
+	    ,"mekanAdresLink":"https://www.google.com/maps/place/Ku%C4%9Fulu+Park%C4%B1/@39.9099419,32.8574193,16z/data=!4m9!1m2!2m1!1sku%C4%9Fulu+park!3m5!1s0x0:0xad91afede2cf901f!8m2!3d39.9121729!4d32.8623443!15sCgxrdcSfdWx1IHBhcmuSAQRwYXJr"
+	},
+	{
+		"mekanId":"3",
+		"mekanResim":"segmenlerparki",
+		"mekanAdi":"Seğmenler Parkı",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Çankaya İlçesi",
+		"mekanAciklama":"Ankara'da 1983'te açılan bir park. 67 bin metre karelik bir alanı kaplayan parkın içinde havuzlar, çocuk bahçesi ve zaman zaman konserlerin verildiği bir amfi tiyatro da yer alıyor."
+	    ,"mekanAdresLink":"https://www.google.com/maps/place/%C3%87ankaya,+Se%C4%9Fmenler+Park+%C4%B0%C3%A7i+Yolu,+06690+%C3%87ankaya%2FAnkara/@39.8967875,32.853481,15z/data=!3m1!4b1!4m5!3m4!1s0x14d34f999cd3b52f:0x4a6a943b46bc443c!8m2!3d39.8967713!4d32.8622357"
+		},
+	{
+		"mekanId":"4",
+		"mekanResim":"kurtulusparki",
+		"mekanAdi":"Kurtuluş Parkı",
+		"mekanAdres":"06420",
+		"mekanIlce":"Çankaya İlçesi",
+		"mekanAciklama":"Kurtuluş Parkı, Ankara'nın en tanınan parklarından biridir. Fidanlık Mahallesi'nde yer alır. Adı eskiden bağlı bulunduğu Kurtuluş Mahallesi'nden gelmektedir."
+	,"mekanAdresLink":"https://www.google.com/maps/place/Fidanl%C4%B1k,+Kurtulu%C5%9F+Park%C4%B1,+06420+%C3%87ankaya%2FAnkara/@39.9288716,32.8589238,16z/data=!4m13!1m7!3m6!1s0x14d34e5015ea552f:0x68b845e4f89e579a!2zRmlkYW5sxLFrLCBLdXJ0dWx1xZ8gUGFya8SxLCAwNjQyMCDDh2Fua2F5YS9BbmthcmE!3b1!8m2!3d39.928222!4d32.8633656!3m4!1s0x14d34e5015ea552f:0x68b845e4f89e579a!8m2!3d39.928222!4d32.8633656"
+},
+	{
+		"mekanId":"5",
+		"mekanResim":"ataturkormanciftligi",
+		"mekanAdi":"Atatürk Orman Çiftliği",
+		"mekanAdres":"Cevizlidere",
+		"mekanIlce":"Çankaya İlçesi",
+		"mekanAciklama":"1925 yılında Ankara'nın batısında, Gazi Mustafa Kemal Atatürk tarafından parça parça ve farklı bireylerden satın alınan arazi üstünde onun talimatı ile kurulan ve Türk tarımına öncülük eden çiftliktir."
+	    ,"mekanAdresLink":"https://www.google.com/maps/place/Atat%C3%BCrk+Orman+%C3%87iftli%C4%9Fi/@39.8854863,32.7937777,13z/data=!4m9!1m2!2m1!1zYXRhdMO8cmsgb3JtYW4gw6dpZnRsacSfaQ!3m5!1s0x0:0x2b486b5b52dd1b32!8m2!3d39.8850954!4d32.8176751!15sChlhdGF0w7xyayBvcm1hbiDDp2lmdGxpxJ9pkgEEZmFybQ"
+	},
+	{
+		"mekanId":"6",
+		"mekanResim":"dikmenvadisi",
+		"mekanAdi":"Dikmen Vadisi",
+		"mekanAdres":"Ayrancı, Mesnevi Sokağı, 06540",
+		"mekanIlce":"Çankaya İlçesi",
+		"mekanAciklama":". Yıllar boyunca kaçak ve gecekondu tipi yapılaşmaya maruz kalan vadide bir süre önce Dikmen Vadisi Kentsel Dönüşüm ve Gelişim Projesi adı altında bir yenileme ve yeniden kazandırma çalışmaları başlatılmış; etaplar halinde bu yapılar yıkılarak vadi ve çevresi yeniden düzenlenmiştir."
+	,"mekanAdresLink":"https://www.google.com/maps/place/Dikmen+Vadisi/@39.8911795,32.8353709,15z/data=!4m9!1m2!2m1!1sdikmen+vadisi!3m5!1s0x0:0x5bfbc518dde695b!8m2!3d39.8963104!4d32.8442529!15sCg1kaWttZW4gdmFkaXNpWg8iDWRpa21lbiB2YWRpc2mSAQRwYXJr"
+	},
+	{
+		"mekanId":"7",
+		"mekanResim":"harikalardiyari",
+		"mekanAdi":"Harikalar Diyarı",
+		"mekanAdres":"Yunus Emre Sk. No:1, 06110",
+		"mekanIlce":"Sincan İlçesi",
+		"mekanAciklama":"Fatih semtinde bulunan ve 1 milyon 300 bin m²'lik alanıyla Avrupa'nın büyük parklarındandır."
+	    ,"mekanAdresLink":"https://www.google.com/maps/place/Yunus+Emre,+Harikalar+Diyar%C4%B1,+06933+Sincan%2FAnkara/@39.9841295,32.5878143,16z/data=!4m13!1m7!3m6!1s0x14d3308e56baa44b:0xa4c4ef55b2a1f300!2sYunus+Emre,+Harikalar+Diyar%C4%B1,+06933+Sincan%2FAnkara!3b1!8m2!3d39.983727!4d32.5922346!3m4!1s0x14d3308e56baa44b:0xa4c4ef55b2a1f300!8m2!3d39.983727!4d32.5922346"
+	},
+	{
+		"mekanId":"8",
+		"mekanResim":"ellinciyilparki",
+		"mekanAdi":"50.Yıl Parkı",
+		"mekanAdres":"Dilekler Sk. No:1, 06110",
+		"mekanIlce":"Çankaya İlçesi",
+		"mekanAciklama":"Çankaya ilçesinin Cebeci semtindeki park Ankara Üniversitesi Cebeci Kampüsü üzerindeki tepeye konuşlandırılmıştır. Park ilk olarak, Cumhuriyetin 50’nci Yıldönümü anısına, 1970 yılında açılmıştır."
+         ,"mekanAdresLink":"https://www.google.com/maps/place/Dilekler,+50.+Y%C4%B1l+Park%C4%B1,+%C3%87ankaya%2FAnkara/@39.922499,32.8711067,16z/data=!4m13!1m7!3m6!1s0x14d34e37fd38bd5d:0xba482a867671539e!2zRGlsZWtsZXIsIDUwLiBZxLFsIFBhcmvEsSwgw4dhbmtheWEvQW5rYXJh!3b1!8m2!3d39.9220962!4d32.8754412!3m4!1s0x14d34e37fd38bd5d:0xba482a867671539e!8m2!3d39.9220962!4d32.8754412"
+	},
+	{
+		"mekanId":"9",
+		"mekanResim":"botanikparki",
+		"mekanAdi":"Botanik Parkı",
+		"mekanAdres":"Ziraat, Merkez Sk. No:1, 06110",
+		"mekanIlce":"Çankaya İlçesi",
+		"mekanAciklama":"Parkın ortasında bir havuz, çocuk bahçesi ve çiçek serası vardır.",
+		"mekanAdresLink":"https://www.google.com/maps/place/Botanik+Park%C4%B1/@39.8876032,32.8209901,13z/data=!4m9!1m2!2m1!1sbotanik+park%C4%B1!3m5!1s0x0:0xf9c7a3dcfe368627!8m2!3d39.8876069!4d32.8560141!15sCg5ib3RhbmlrIHBhcmvEsVoQIg5ib3RhbmlrIHBhcmvEsZIBBHBhcmuaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUk5lalZpVTBabkVBRQ"
+	}
+]
+}
