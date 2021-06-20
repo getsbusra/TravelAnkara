@@ -6,8 +6,9 @@
 		"mekanAdres":"Kale, Gözcü Sk. No:2, 06240",
 		"mekanIlce":"Altındağ İlçesi",
 		"mekanAciklama":" Ulus semtinde bulunan tarih ve arkeoloji müzesidir. Müzede, Anadolu'nun arkeolojik eserleri kronolojik olarak sergilenmektedir.Müze, Ankara Kalesi’nin dış duvarının güneydoğu kıyısında, yeni işlev verilerek düzenlenmiş iki Osmanlı yapısında yer alır.",
-	        "mekanAdresLink":"https://www.google.com/maps/place/Anadolu+Medeniyetleri+M%C3%BCzesi/@39.9380026,32.8603187,17z/data=!4m12!1m6!3m5!1s0x14d34e6778370bf7:0x9b91ac47e4f46746!2sAnadolu+Medeniyetleri+M%C3%BCzesi!8m2!3d39.9382934!4d32.8619267!3m4!1s0x14d34e6778370bf7:0x9b91ac47e4f46746!8m2!3d39.9382934!4d32.8619267"
-	},
+	        "mekanAdresLink":"https://www.google.com/maps/place/Anadolu+Medeniyetleri+M%C3%BCzesi/@39.9380026,32.8603187,17z/data=!4m12!1m6!3m5!1s0x14d34e6778370bf7:0x9b91ac47e4f46746!2sAnadolu+Medeniyetleri+M%C3%BCzesi!8m2!3d39.9382934!4d32.8619267!3m4!1s0x14d34e6778370bf7:0x9b91ac47e4f46746!8m2!3d39.9382934!4d32.8619267",
+	        "resimLink":"https://lh3.googleusercontent.com/proxy/WiId-qzecJHd4EVbmastl9OHwF6RWDqauvO_JsvMRw1iljkVy2UTgBqUayo9gR9-imNTfXe-19rqpJumIqYWSEY"
+    },
 	{
 		"mekanId":"2",
 		"mekanResim":"rahmikocmuzesi",
